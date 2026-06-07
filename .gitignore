@@ -1,0 +1,30 @@
+# Build outputs
+*.o
+*.out
+a.out
+one_pass
+two_pass
+set_a_q11
+set_b_q10
+set_b_q2
+
+# Flex/Bison generated files
+lex.yy.c
+y.tab.c
+y.tab.h
+
+# Assignment 3 generated outputs
+tokens.txt
+symbol_table.txt
+
+# Assignment 2 generated outputs
+output_one_pass.txt
+output_two_pass.txt
+intermediate.txt
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
